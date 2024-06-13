@@ -27,6 +27,8 @@ Version: 1.0
   - Version Language: 17
 - Framework: ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   - Version: 3.3.0
+- Test of requests: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  - Version: v11.1.14
 
 ### Architecture project:
 > ![image](https://github.com/ArretadoLabs/simple_crud_spring_boot_v1.0/assets/165390931/4a954095-3e47-4878-b41b-57485f0c6822)
